@@ -27,5 +27,4 @@ void	ft_print_alphabet(void)
 		ft_putchar(letra);
 		letra++;
 	}
-	ft_putchar ('\n');
 }
